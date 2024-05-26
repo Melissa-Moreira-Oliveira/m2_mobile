@@ -3,7 +3,7 @@
     {
       "nome_item": "Frango Asiatico",
       "preco_item": 25.99,
-      "endereco_imagem": "https://github.com/Melissa-Moreira-Oliveira/m2_mobile/blob/main/cardapio/imagem/frango%20asiatico.png?raw=true"
+      "endereco_imagem": "https://raw.githubusercontent.com/Melissa-Moreira-Oliveira/m2_mobile/main/cardapio/blob/frango_asiatico"
     }
   ]
 }
