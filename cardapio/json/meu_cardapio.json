@@ -14,6 +14,21 @@
       "nome_item": "Carbonara",
       "preco_item": 23.99,
       "endereco_imagem": "https://raw.githubusercontent.com/Melissa-Moreira-Oliveira/m2_mobile/main/cardapio/blob/carbonara"
+    },
+    {
+      "nome_item": "Água",
+      "preco_item": 4.50,
+      "endereco_imagem": "https://raw.githubusercontent.com/Melissa-Moreira-Oliveira/m2_mobile/main/cardapio/blob/agua"
+    },
+    {
+      "nome_item": "Suco",
+      "preco_item": 7.99,
+      "endereco_imagem": "https://raw.githubusercontent.com/Melissa-Moreira-Oliveira/m2_mobile/main/cardapio/blob/suco"
+    },
+    {
+      "nome_item": "Ramen",
+      "preco_item": 29.99,
+      "endereco_imagem": "https://raw.githubusercontent.com/Melissa-Moreira-Oliveira/m2_mobile/main/cardapio/blob/ramen"
     }
   ]
 }
