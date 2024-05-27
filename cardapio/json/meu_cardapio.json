@@ -9,6 +9,11 @@
       "nome_item": "Salada",
       "preco_item": 13.99,
       "endereco_imagem": "https://raw.githubusercontent.com/Melissa-Moreira-Oliveira/m2_mobile/main/cardapio/blob/salada"
+    },
+    {
+      "nome_item": "Carbonara",
+      "preco_item": 23.99,
+      "endereco_imagem": "https://raw.githubusercontent.com/Melissa-Moreira-Oliveira/m2_mobile/main/cardapio/blob/carbonara"
     }
   ]
 }
